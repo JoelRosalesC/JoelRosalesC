@@ -1,16 +1,26 @@
-## Hi there 👋
+## Hi, I'm Joel 👋
 
-<!--
-**JoelRosalesC/JoelRosalesC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science / Informatics student (in progress) focused on
+software engineering fundamentals and backend development.
 
-Here are some ideas to get you started:
+Currently preparing for software engineering internships and
+building a strong foundation in data structures, algorithms,
+and core computer science topics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Technical Skills
+- Programming: Java, Python, C++
+- Core CS: Data Structures, Algorithms, Databases, Operating Systems
+- Tools: Git, Linux, SQL
+
+### 📌 Featured Work
+- **Data Structures & Algorithms**  
+  Practice and implementations in Java/C++ focused on interview preparation.
+
+- **Computer Science Foundations**  
+  Notes and implementations covering core CS subjects.
+
+### 🎯 Goals
+- Secure a software engineering internship
+- Strengthen problem-solving and system design skills
+- Build real-world backend projects
+
