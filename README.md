@@ -20,5 +20,5 @@ Currently preparing for software engineering internships and strengthening my fo
 * Software Engineering fundamentals
 
 ## 📫 Contact
-* [LinkedIn](TU_LINK_A_LINKEDIN_AQUI)
-* Email: [TU_CORREO_AQUI]
+* [LinkedIn] :
+* Email: joelrosale2004jc@gmail.com
