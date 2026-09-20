@@ -1,34 +1,25 @@
-## Hi, I'm Joel 👋
+# Hi, I'm Joel 👋
 
-Computer Science / Informatics student (in progress) focused on
-software engineering fundamentals and backend development.
+Computer Science student at Universidad Nacional de La Plata (UNLP), currently pursuing a Bachelor's degree in Computer Science, with an intermediate degree in Information and Communication Technologies (ATIC). 
 
-Currently preparing for software engineering internships and
-building a strong foundation in data structures, algorithms,
-and core computer science topics.
+Currently preparing for software engineering internships and strengthening my foundations in backend development, data structures, and algorithms.
 
-### 🛠 Technical Skills
-- Programming: Java, Python, C++
-- Core CS: Data Structures, Algorithms, Databases, Operating Systems
-- Tools: Git, Linux, SQL
+## 🛠 Technical Skills
+* **Languages:** Java, Python, SQL
+* **Technologies:** Spring Boot, Spring Data JPA, Spring Security, REST APIs, JWT
+* **Database:** PostgreSQL
+* **Tools:** Git, GitHub, Postman
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="C++"/>
-</p>
+## 💻 Featured Project
+**Barbershop Management System**
+*Full-stack web application developed for a client to manage services, employees, branches, schedules, reservations, availability, and revenue reports.*
+* **Technologies:** Java, Spring Boot, Spring Data JPA, Spring Security, PostgreSQL, React, JWT
+* *Note: The repository is private as it was developed for a business client, but I am open to discussing the architecture, database design, and security implementations.*
 
-### 📫 Contact
+## 📚 Currently Learning
+* Data Structures & Algorithms
+* Software Engineering fundamentals
 
-<p align="left">
-  <a href="mailto:TU_EMAIL@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="28" alt="Gmail"/>
-  </a>
-  <img width="12"/>
-
-  <a href="https://www.linkedin.com/in/TU_LINKEDIN" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="28" alt="LinkedIn"/>
-  </a>
-</p>
+## 📫 Contact
+* [LinkedIn](TU_LINK_A_LINKEDIN_AQUI)
+* Email: [TU_CORREO_AQUI]
