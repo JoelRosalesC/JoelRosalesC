@@ -12,9 +12,8 @@ Currently preparing for software engineering internships and strengthening my fo
 
 ## 💻 Featured Project
 **Barbershop Management System**
-*Full-stack web application developed for a client to manage services, employees, branches, schedules, reservations, availability, and revenue reports.*
+*Commercial full-stack web application developed to manage barbershop operations, including services, employees, branches, schedules, reservations, availability, and revenue reports.*
 * **Technologies:** Java, Spring Boot, Spring Data JPA, Spring Security, PostgreSQL, React, JWT
-* *Note: The repository is private as it was developed for a business client, but I am open to discussing the architecture, database design, and security implementations.*
 
 ## 📚 Currently Learning
 * Data Structures & Algorithms
