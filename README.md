@@ -4,7 +4,7 @@ Computer Science student at Universidad Nacional de La Plata (UNLP), currently p
 
 Currently preparing for software engineering internships and strengthening my foundations in backend development, data structures, and algorithms.
 
-## 🛠 Technical Skills
+## Technical Skills
 * **Languages:** Java, Python, SQL
 * **Technologies:** Spring Boot, Spring Data JPA, Spring Security, REST APIs, JWT
 * **Database:** PostgreSQL
@@ -19,6 +19,6 @@ Currently preparing for software engineering internships and strengthening my fo
 * Data Structures & Algorithms
 * Software Engineering fundamentals
 
-## 📫 Contact
+## Contact
 * [LinkedIn] :
 * Email: joelrosale2004jc@gmail.com
