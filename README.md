@@ -2,7 +2,7 @@
 
 Computer Science student at Universidad Nacional de La Plata (UNLP), currently pursuing a Bachelor's degree in Computer Science, with an intermediate degree in Information and Communication Technologies (ATIC). 
 
-Currently preparing for software engineering internships and strengthening my foundations in backend development, data structures, and algorithms.
+Currently preparing for software engineering internships and strengthening my foundations in software engineering, data structures, algorithms, and databases.
 
 ## Technical Skills
 * **Languages:** Java, Python, SQL
